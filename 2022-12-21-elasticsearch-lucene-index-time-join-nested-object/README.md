@@ -1,6 +1,6 @@
 # How Elasticsearch uses Lucene index time join to handle nested objects
 
-Sample code for blog TODO: link to blog https://github.com/dyweb/blog/pull/59
+Sample code for [blog](https://github.com/dyweb/blog/blob/master/source/how_elasticsearch_uses_lucene_index_time_join_to_handle_nested_objects.md)
 
 ## Usage
 
